@@ -1,5 +1,5 @@
-# Chai aur backend Series
+#chai aur backend video series 
 
-This is video series of backend which im going to complete it in this 16 days and want grow myy knoeledge in backend hope so i will become perfinist in this 15 days target and along with backend i have to prepare dsa all questions striver with explnation and 1 unit per day as i want shwo to bhakti that i have ptential and i can grab goodd marks in this sem
+im learning backend from code with chai and building my knowldge in backend feild and im damn sure im going to complete this vid series in this 15 days span an dbecome the backend pro developer
 
-- [Model link] (https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
+- [Modles link] (https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
